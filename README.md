@@ -38,3 +38,21 @@ Being in a position to bring a positive effect to people on a wider scale throug
 - Interpreted for official events such as hosting a delegation from Bremerton City, Kure City's sister city in the United States in both Japanese and English, ensuring smooth communication between local government officials.
 
 ## Skills
+
+## Education
+
+**Makers Academy**  (July 2023 - Present)
+
+*Full Stack Software Development Bootcamp*
+- 16 Week Bootcamp focused on Full Stack Software Development with a heavy focus on building web apps within teams
+- Implemented Test Driven Development and Object Oriented Design using Python and Javascript to build dynamic full-stack web applications, which ensured the codebase was functioning correctly and increased code quality in my engineering projects.
+- Collaborated with other cohort members on group projects through pair programming, following a driver-navigator approach, enhancing my ability to communicate effectively and work closely with other developers and led to increased productivity in implementing various features.
+- Developed web applications in teams using Agile methodologies such as stand ups, retros and short delivery cycles which meant that communication between all team members was high and tickets were handled efficiently.
+- Tech Stack: Python, Flask, Javascript, React, Express, Flask, Jest, Pytest, Cypress
+- Skills: TDD, OOP, Agile, Command Line, Version Control (Git, Github), CI/CD
+
+**University of Leeds**  (September 2015 - July, 2019)
+
+*BA, Japanese 2:1 (Upper Second Class Honours)*
+- Modules: Advanced Japanese (Written and spoken communication skills), Advanced Japanese in Context (Literature), Advanced Japanese in Translation
+- Year abroad in Japan at Kyushu University 2016-2017: Attended Japanese language classes and studied modules on Japanese history and culture.
