@@ -56,3 +56,13 @@ Being in a position to bring a positive effect to people on a wider scale throug
 *BA, Japanese 2:1 (Upper Second Class Honours)*
 - Modules: Advanced Japanese (Written and spoken communication skills), Advanced Japanese in Context (Literature), Advanced Japanese in Translation
 - Year abroad in Japan at Kyushu University 2016-2017: Attended Japanese language classes and studied modules on Japanese history and culture.
+
+**Qualifications:**
+- Japanese Language Proficency Test (JLPT) N1
+
+## Hobbies
+
+- Photography 📷, mainly landscape on both film and digital
+- Gaming 🎮
+- Listening to music 🎧, as well as collecting records 
+- Reading epic fantasy novels 📚
