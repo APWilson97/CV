@@ -6,3 +6,6 @@ Being in a position to bring a positive effect to people on a wider scale throug
 
 ## Projects
 
+| Name            | Description                             | Tech Stack          |
+| --------------- | --------------------------------------- | ------------------- |
+| [**Acebook**](https://github.com/spcmarine/Acebook-Web-App)     | Social media website based on Facebook  | MERN Stack (MongoDB, Express, React, Node)                    |
