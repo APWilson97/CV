@@ -39,6 +39,20 @@ Being in a position to bring a positive effect to people on a wider scale throug
 
 ## Skills
 
+**Relationship Management**
+- Acted as a liaison between candidates and hiring managers during hiring processes
+- Handled offer negotiations to ensure both parties are able to establish a good working relationship going forward
+- Maintained regular communication with clients for business development and updates on candidate sourcing
+
+**Communication**
+- Discussed hiring priorities with hiring managers for key job roles
+- Regularly spoke with candidates to ascertain key industries and roles of interest and pitch appropriate job roles
+- Handled customer cases and complaints with empathy and clear communication, de-escalating situations if needed for more serious cases
+
+**Collaboration**
+- Worked closely with internal product development teams to further improve existing products/services and user experience through collecting and relaying feedback and complaints from customers to those teams
+- 
+
 ## Education
 
 **Makers Academy**  (July 2023 - Present)
