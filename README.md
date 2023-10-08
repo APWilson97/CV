@@ -51,7 +51,8 @@ Being in a position to bring a positive effect to people on a wider scale throug
 
 **Collaboration**
 - Worked closely with internal product development teams to further improve existing products/services and user experience through collecting and relaying feedback and complaints from customers to those teams
-- 
+- Collaborated with recruitment teams handling other industries for sharing candidates as well as any business development leads to ensure key performance targets were met
+- Worked closely with colleagues on translating official government documents between Japanese and English, providing regular feedback on initial drafts to ensure a high level of precision and accuracy with the final translation
 
 ## Education
 
