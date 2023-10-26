@@ -8,6 +8,7 @@ Being in a position to bring a positive effect to people on a wider scale throug
 
 | Name            | Description                             | Tech Stack          |
 | --------------- | --------------------------------------- | ------------------- |
+| [**FlavourFinder**](https://github.com/amancalledkidd/FlavourFinders)     | AI Recipe generator web app  | MERN Stack (MongoDB, Express, React, Node)
 | [**Acebook**](https://github.com/spcmarine/Acebook-Web-App)     | Social media website based on Facebook  | MERN Stack (MongoDB, Express, React, Node)                    |
 | [**MakersBnB**](https://github.com/denisecodes/makersbnb)    | A web app for users to create, view and book property listings  | Python, Flask, HTML, CSS
 
