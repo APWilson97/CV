@@ -1,8 +1,9 @@
 # Alexander Wilson
 
-I am an aspiring Software Engineer recently graduated from  the Makers Academy Software Development Bootcamp, with four years of experience working in Japan in Customer Service, Recruitment and Translation as a bilingual professional. 
+I am a Junior Software Engineer, recently graduated from the Makers Academy Software Development Bootcamp, with a strong passion for technology and driven to become a part of a team that values inclusivity, continual growth, and effective communication. With a unique background in customer service, translation, event planning, and recruitment acquired 4 years of experience as a bilingual professional in Japan, I bring a diverse skill set from strong project management to business development and relationship management with key stakeholders. 
 
-Being in a position to bring a positive effect to people on a wider scale through products and services I've contributed to is a personal career goal of mine. This is what excites me most about the tech industry as I believe that it will allow me to achieve this goal and the main reason why I started to learn coding.
+Driven by a passion to generate substantial customer impact on a grand scale, I started my journey into technology. Through my coding experience, I have developed a solid foundation in software development principles, underscoring my commitment to technical excellence and innovation. I am determined to leverage my diverse background and newly acquired technical expertise in a software role.
+
 
 ## Projects
 
