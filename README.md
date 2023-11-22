@@ -58,7 +58,7 @@ Driven by a passion to generate substantial customer impact on a grand scale, I 
 
 ## Education
 
-**Makers Academy**  (July 2023 - Present)
+**Makers Academy**  (July 2023 - October 2023)
 
 *Full Stack Software Development Bootcamp*
 - 16 Week Bootcamp focused on Full Stack Software Development with a heavy focus on building web apps within teams
