@@ -13,7 +13,7 @@ Driven by a passion to generate substantial customer impact on a grand scale, I 
 | [**Acebook**](https://github.com/spcmarine/Acebook-Web-App)     | Social media website based on Facebook  | MERN Stack (MongoDB, Express, React, Node)                    |
 | [**MakersBnB**](https://github.com/denisecodes/makersbnb)    | A web app for users to create, view and book property listings  | Python, Flask, HTML, CSS
 
-## Work Experience
+## Work Experience 💼
 
 **Specialized Group K.K.**	(June 2022 - May 2023)
 
@@ -39,7 +39,7 @@ Driven by a passion to generate substantial customer impact on a grand scale, I 
 - Managed planning and implementation of cultural exchange events between Kure City and its citizens to promote British culture and intercultural awareness and understanding, utilizing project management skills  which ensured participants were fully engaged, gained new insights and a heightened interest in British culture.
 - Interpreted for official events such as hosting a delegation from Bremerton City, Kure City's sister city in the United States in both Japanese and English, ensuring smooth communication between local government officials.
 
-## Skills
+## Skills 🛠️
 
 **Relationship Management**
 - Acted as a liaison between candidates and hiring managers during hiring processes
@@ -56,7 +56,7 @@ Driven by a passion to generate substantial customer impact on a grand scale, I 
 - Collaborated with recruitment teams handling other industries for sharing candidates as well as any business development leads to ensure key performance targets were met
 - Worked closely with colleagues on translating official government documents between Japanese and English, providing regular feedback on initial drafts to ensure a high level of precision and accuracy with the final translation
 
-## Education
+## Education 🎓
 
 **Makers Academy**  (July 2023 - October 2023)
 
@@ -77,9 +77,9 @@ Driven by a passion to generate substantial customer impact on a grand scale, I 
 **Qualifications:**
 - Japanese Language Proficency Test (JLPT) N1
 
-## Hobbies
+## Hobbies 🎨
 
-- Photography 📷, mainly landscape on both film and digital
-- Gaming 🎮, I've been loving classic PS1 JRPGs at the moment
-- Listening to music 🎧, as well as collecting vinyl records
-- Reading epic fantasy novels 📚
+- 📷 Photography, mainly landscape on both film and digital
+- 🎮 Gaming, I've been loving classic PS1 JRPGs at the moment
+- 🎧 Listening to music, as well as collecting vinyl records
+- 📚 Reading epic fantasy novels, highly recommend the Memory Sorrow and Thorn series by Tad Williams
