@@ -1,6 +1,6 @@
 # Alexander Wilson
 
-I am a Junior Software Engineer, recently graduated from the Makers Academy Software Development Bootcamp, with a strong passion for technology and driven to become a part of a team that values inclusivity, continual growth, and effective communication. With a unique background in customer service, translation, event planning, and recruitment acquired 4 years of experience as a bilingual professional in Japan, I bring a diverse skill set from strong project management to business development and relationship management with key stakeholders. 
+I am a Junior Software Engineer, recently graduated from the Makers Academy Software Development Bootcamp, with a strong passion for technology and driven to become a part of a team that values inclusivity, continual growth, and effective communication. With a unique background in customer service, translation, event planning, and recruitment acquired through 4 years of experience as a bilingual professional in Japan, I bring a diverse skill set from strong project management to business development and relationship management with key stakeholders. 
 
 Driven by a passion to generate substantial customer impact on a grand scale, I started my journey into technology. Through my coding experience, I have developed a solid foundation in software development principles, underscoring my commitment to technical excellence and innovation. I am determined to leverage my diverse background and newly acquired technical expertise in a software role.
 
@@ -80,6 +80,6 @@ Driven by a passion to generate substantial customer impact on a grand scale, I 
 ## Hobbies
 
 - Photography 📷, mainly landscape on both film and digital
-- Gaming 🎮
-- Listening to music 🎧, as well as collecting records 
+- Gaming 🎮, I've been loving classic PS1 JRPGs at the moment
+- Listening to music 🎧, as well as collecting vinyl records
 - Reading epic fantasy novels 📚
